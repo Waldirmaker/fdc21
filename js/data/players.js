@@ -12,7 +12,7 @@ window.FDC21.players = [
   {id:'sebastian-jayo', name:'Sebastián Jayo', number:7, position:'Mediocampista / delantero', category:'delanteros', active:true, captain:false, image:null, historyGoals:6},
   {id:'sebastian-montoro', name:'Sebastián Montoro', number:10, position:'Volante creativo', category:'mediocampistas', active:true, captain:false, image:null, historyGoals:1},
   {id:'edu-bravo', name:'Edu Bravo', number:18, position:'Delantero', category:'delanteros', active:true, captain:false, image:null, historyGoals:1},
-  {id:'johnny-carrero', name:'Johnny Carrero', number:9, position:'Delantero centro', category:'delanteros', active:true, captain:false, image:null, historyGoals:19},
+  {id:'johnny-carrero', name:'Johnny Carrero', number:9, position:'Delantero centro', category:'delanteros', active:true, captain:false, image: 'assets/jugadores/enzo-carrero.png', historyGoals:19},
   {id:'enzo-carrero', name:'Enzo Carrero', number:11, position:'Delantero / volante ofensivo', category:'delanteros', active:true, captain:true, image:null, historyGoals:6},
   {id:'fabricio-buenano', name:'Fabricio Buenaño', number:17, position:'Defensa', category:'defensas', active:false, captain:false, image:null, historyGoals:2},
   {id:'fabricio-morote', name:'Fabricio Morote', number:14, position:'Volante', category:'mediocampistas', active:false, captain:false, image:null, historyGoals:1},
