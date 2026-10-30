@@ -5,7 +5,7 @@ window.FDC21.players = [
   {id:'martin-falla', name:'Martín Falla', number:13, position:'Arquero', category:'arqueros', active:true, captain:false, image:null, historyGoals:null},
   {id:'jairo-martinez', name:'Jairo Martínez', number:26, position:'Defensa', category:'defensas', active:true, captain:false, image:null, historyGoals:null},
   {id:'mathias-montesinos', name:'Mathias Montesinos', number:19, position:'Defensa', category:'defensas', active:true, captain:false, image:null, historyGoals:10},
-  {id:'bruno-diaz', name:'Bruno Díaz', number:4, position:'Defensa / lateral', category:'defensas', active:true, captain:false, image:null, historyGoals:4},
+  {id:'bruno-diaz', name:'Bruno Díaz', number:4, position:'Defensa / lateral', category:'defensas', active:true, captain:false, image: 'assets/jugadores/bruno-diaz.png', historyGoals:4},
   {id:'diego-canote', name:'Diego Cañote', number:6, position:'Volante', category:'mediocampistas', active:true, captain:false, image:null, historyGoals:6},
   {id:'jhovan-samayoa', name:'Jhovan Samayoa', number:16, position:'Volante', category:'mediocampistas', active:true, captain:false, image:null, historyGoals:5},
   {id:'daniel-manco', name:'Daniel Manco', number:8, position:'Volante', category:'mediocampistas', active:true, captain:false, image:null, historyGoals:2},
